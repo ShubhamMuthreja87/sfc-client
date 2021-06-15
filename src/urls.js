@@ -1,6 +1,6 @@
 // const HOST = window.location.hostname;
 // const BASE_URL = "http://" + HOST + ":5000/";
-const BASE_URL = "http://ec2-34-229-220-65.compute-1.amazonaws.com:5000/";
+const BASE_URL = "https://sfcmanagement.in/";
 
 ////////////            Basic data fetch        //////////////
 
